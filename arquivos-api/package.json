@@ -1,0 +1,12 @@
+{
+  "name": "arquivos-api",
+  "version": "1.0.0",
+  "description": "Lendo arquivos de dados grandes com Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wellington Miarro Ferreira",
+  "license": "ISC"
+}
